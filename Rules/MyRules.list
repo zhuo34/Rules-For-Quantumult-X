@@ -1,4 +1,9 @@
 # ZJU
-host-suffix, zju.edu.cn, direct
-host-suffix, cc98.org, direct
-host-suffix, nexushd.org, direct
+host-suffix, zju.edu.cn, Mainland
+host-suffix, cc98.org, Mainland
+
+# pt
+host-suffix, nexushd.org, Mainland
+host-suffix, tju.pt, Mainland
+host-suffix, tjupt.org, Mainland
+host-suffix, byr.pt, Mainland
